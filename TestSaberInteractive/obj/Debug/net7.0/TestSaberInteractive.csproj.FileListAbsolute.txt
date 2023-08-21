@@ -1,0 +1,15 @@
+C:\Users\creog\Desktop\Developing\C#\TestSaberInteractive\TestSaberInteractive\bin\Debug\net7.0\TestSaberInteractive.exe
+C:\Users\creog\Desktop\Developing\C#\TestSaberInteractive\TestSaberInteractive\bin\Debug\net7.0\TestSaberInteractive.deps.json
+C:\Users\creog\Desktop\Developing\C#\TestSaberInteractive\TestSaberInteractive\bin\Debug\net7.0\TestSaberInteractive.runtimeconfig.json
+C:\Users\creog\Desktop\Developing\C#\TestSaberInteractive\TestSaberInteractive\bin\Debug\net7.0\TestSaberInteractive.dll
+C:\Users\creog\Desktop\Developing\C#\TestSaberInteractive\TestSaberInteractive\bin\Debug\net7.0\TestSaberInteractive.pdb
+C:\Users\creog\Desktop\Developing\C#\TestSaberInteractive\TestSaberInteractive\obj\Debug\net7.0\TestSaberInteractive.csproj.AssemblyReference.cache
+C:\Users\creog\Desktop\Developing\C#\TestSaberInteractive\TestSaberInteractive\obj\Debug\net7.0\TestSaberInteractive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\creog\Desktop\Developing\C#\TestSaberInteractive\TestSaberInteractive\obj\Debug\net7.0\TestSaberInteractive.AssemblyInfoInputs.cache
+C:\Users\creog\Desktop\Developing\C#\TestSaberInteractive\TestSaberInteractive\obj\Debug\net7.0\TestSaberInteractive.AssemblyInfo.cs
+C:\Users\creog\Desktop\Developing\C#\TestSaberInteractive\TestSaberInteractive\obj\Debug\net7.0\TestSaberInteractive.csproj.CoreCompileInputs.cache
+C:\Users\creog\Desktop\Developing\C#\TestSaberInteractive\TestSaberInteractive\obj\Debug\net7.0\TestSaberInteractive.dll
+C:\Users\creog\Desktop\Developing\C#\TestSaberInteractive\TestSaberInteractive\obj\Debug\net7.0\refint\TestSaberInteractive.dll
+C:\Users\creog\Desktop\Developing\C#\TestSaberInteractive\TestSaberInteractive\obj\Debug\net7.0\TestSaberInteractive.pdb
+C:\Users\creog\Desktop\Developing\C#\TestSaberInteractive\TestSaberInteractive\obj\Debug\net7.0\TestSaberInteractive.genruntimeconfig.cache
+C:\Users\creog\Desktop\Developing\C#\TestSaberInteractive\TestSaberInteractive\obj\Debug\net7.0\ref\TestSaberInteractive.dll
